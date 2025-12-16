@@ -1,0 +1,6 @@
+{
+    "server_ip": "YOUR_SERVER_IP",
+    "tun_ip": "10.9.0.101",
+    "tun_gateway": "10.9.0.1",
+    "log_level": "INFO"
+}
